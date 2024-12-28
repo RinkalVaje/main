@@ -1,0 +1,10 @@
+git init
+git status
+git add <filename>
+git rm --cached * --> To remove commited file back to untracked stage
+git rm --cached * -r --> for images 
+
+head --> Last commited branch
+
+git reset <id name> --hard --> working file get update with pervious file.
+git reset <id name> --> 
